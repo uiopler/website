@@ -37,7 +37,7 @@ body{
 }
 
 .aNav, a:active{
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .codeHref{
