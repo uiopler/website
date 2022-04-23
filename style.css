@@ -1,0 +1,97 @@
+body{
+
+    background-color: #191919;
+    color: #fff;
+    display: block;
+    padding-top: 34.75px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+.content{
+
+    margin: auto;
+    position:sticky;
+    padding: 61px;
+    width: 80%;
+    height: 50%;
+    background-color: #0c0c0c;
+    border-radius: 30px;
+}
+
+
+.aNav{
+
+    padding: 18px;
+    font-size: 27px;
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.aNav, a:visited{
+    
+        color: #fff;
+        text-decoration: none;
+}
+
+.aNav, a:active{
+    text-decoration: underline;
+}
+
+.codeHref{
+
+    font-size: 56px;
+    color:lightskyblue;
+    font-weight: bold;
+}
+
+.codeHref, a:visited{
+    
+    color: lightskyblue;
+    font-weight: bold;
+}
+
+.content code{
+    
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+    color: lightskyblue;
+}
+
+.content h3{
+    
+    font-size: 56px;
+
+}
+
+.content h4{
+    font-size: 32px;
+}
+
+
+
+.aHref{
+
+    color: #7ac1ff;
+    font-size: 32px;
+}
+
+.aHref a:visited{
+
+    color: #7ac1ff;
+    font-size: 32px;
+
+}
+
+.credit{
+
+    font-size: small;
+}
+
+.content h5{
+
+    font-size: small;
+
+}
