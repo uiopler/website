@@ -30,14 +30,10 @@ body{
 }
 
 
-.aNav, a:visited{
+.aNav, .aNav:visited{
     
-        color: #fff;
+        color: lightblue;
         text-decoration: none;
-}
-
-.aNav, a:active{
-    text-decoration: none;
 }
 
 .codeHref{
